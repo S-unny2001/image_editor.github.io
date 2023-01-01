@@ -4,4 +4,4 @@ image editor using javascript which allows a user to select an image from deskto
 
 By - Sanskar Chouhan
 
-live demonstration - 
+live demonstration - https://s-unny2001.github.io/image_editor.github.io/
